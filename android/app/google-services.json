@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "665801222726",
+    "project_id": "flash-chat-9004a",
+    "storage_bucket": "flash-chat-9004a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665801222726:android:45dfa704e9031598723847",
+        "android_client_info": {
+          "package_name": "co.sabib.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665801222726-7lsl6ttkg96lcdau73n8j49mjoe6hls8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxJzWnNhEn4X-J6DvqdPYM7p9UW_YZH1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665801222726-7lsl6ttkg96lcdau73n8j49mjoe6hls8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
